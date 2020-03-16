@@ -1,0 +1,9357 @@
+Id=1
+ExeStack:
+string varf;varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+string varf
+varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+string varf
+varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->""
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->""
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+varf=test.in
+openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->""
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+varf=test.in
+openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->""
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->test.in
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->test.in
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+openRFile(varf)
+int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->test.in
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+openRFile(varf)
+int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->test.in
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int varc
+readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int varc
+readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->0
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->0
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+readFile(varf)
+print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->0
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+readFile(varf)
+print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->0
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->50
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->50
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+print (varc)
+readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->50
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+print (varc)
+readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->50
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->50
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+readFile(varf);print (varc);closeRFile(varf)
+SymTable_1:
+varc->50
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+readFile(varf)
+print (varc);closeRFile(varf)
+SymTable_1:
+varc->50
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+readFile(varf)
+print (varc);closeRFile(varf)
+SymTable_1:
+varc->50
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+print (varc);closeRFile(varf)
+SymTable_1:
+varc->45
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+print (varc);closeRFile(varf)
+SymTable_1:
+varc->45
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+print (varc)
+closeRFile(varf)
+SymTable_1:
+varc->45
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+print (varc)
+closeRFile(varf)
+SymTable_1:
+varc->45
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+closeRFile(varf)
+SymTable_1:
+varc->45
+varf->test.in
+Output:
+50
+45
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+closeRFile(varf)
+SymTable_1:
+varc->45
+varf->test.in
+Output:
+50
+45
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+SymTable_1:
+varc->45
+varf->test.in
+Output:
+50
+45
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int v;Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int v
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int v
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22)
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22)
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)))
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)))
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30);v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30);v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30)
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30)
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=1
+ExeStack:
+int v;Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int v
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int v
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22)
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22)
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)))
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)))
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30);v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30);v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30)
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30)
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+int v;v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_2:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+int v
+v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_2:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+int v
+v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_2:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_2:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_2:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=4
+while(v>0)(print (v);v=v-1);print (v)
+SymTable_2:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=4
+while(v>0)(print (v);v=v-1);print (v)
+SymTable_2:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1);print (v)
+SymTable_2:
+v->4
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1);print (v)
+SymTable_2:
+v->4
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->4
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->4
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->4
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->4
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->4
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->4
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->4
+Output:
+4
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->4
+Output:
+4
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->3
+Output:
+4
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->3
+Output:
+4
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->3
+Output:
+4
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->3
+Output:
+4
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->3
+Output:
+4
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->3
+Output:
+4
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->3
+Output:
+4
+3
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->3
+Output:
+4
+3
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->2
+Output:
+4
+3
+2
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->2
+Output:
+4
+3
+2
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->1
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->1
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->0
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_2:
+v->0
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+SymTable_2:
+v->0
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+SymTable_2:
+v->0
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+SymTable_2:
+v->0
+Output:
+4
+3
+2
+1
+0
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int v;Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int v
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int v
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+Ref(int) a
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+v=10
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22)
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+newH(a, 22)
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)))
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)))
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30);v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30);v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30)
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=2
+ExeStack:
+wH(a, 30)
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+-------------------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+v=32
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+30
+FileTable:
+Heap:
+1->30
+-------------------------------
+Id=2
+ExeStack:
+string varf;varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+string varf
+varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+string varf
+varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->""
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+varf=test.in;openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->""
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+varf=test.in
+openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->""
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+varf=test.in
+openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->""
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->test.in
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+openRFile(varf);int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->test.in
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+openRFile(varf)
+int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->test.in
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+openRFile(varf)
+int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->test.in
+Output:
+FileTable:
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+int varc;readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+int varc
+readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+int varc
+readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->0
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+readFile(varf);print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->0
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+readFile(varf)
+print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->0
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+readFile(varf)
+print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->0
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->50
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (varc);readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->50
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (varc)
+readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->50
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (varc)
+readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->50
+varf->test.in
+Output:
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->50
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+readFile(varf);print (varc);closeRFile(varf)
+SymTable_2:
+varc->50
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+readFile(varf)
+print (varc);closeRFile(varf)
+SymTable_2:
+varc->50
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+readFile(varf)
+print (varc);closeRFile(varf)
+SymTable_2:
+varc->50
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (varc);closeRFile(varf)
+SymTable_2:
+varc->45
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (varc);closeRFile(varf)
+SymTable_2:
+varc->45
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (varc)
+closeRFile(varf)
+SymTable_2:
+varc->45
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+print (varc)
+closeRFile(varf)
+SymTable_2:
+varc->45
+varf->test.in
+Output:
+50
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+closeRFile(varf)
+SymTable_2:
+varc->45
+varf->test.in
+Output:
+50
+45
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+closeRFile(varf)
+SymTable_2:
+varc->45
+varf->test.in
+Output:
+50
+45
+FileTable:
+test.in
+Heap:
+-------------------------------
+Id=2
+ExeStack:
+SymTable_2:
+varc->45
+varf->test.in
+Output:
+50
+45
+FileTable:
+Heap:
+-------------------------------
+Id=1
+ExeStack:
+int v;Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a;v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=10;newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=10
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=10
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 22);fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 22)
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 22)
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(0,int)
+v->10
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)));print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)))
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=1
+ExeStack:
+fork(wH(a, 30);v=32;print (v);print (rH(a)))
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=1
+ExeStack:
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=2
+ExeStack:
+wH(a, 30);v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=1
+ExeStack:
+print (v);print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=2
+ExeStack:
+wH(a, 30);v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=1
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=2
+ExeStack:
+wH(a, 30)
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=1
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=2
+ExeStack:
+wH(a, 30)
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+FileTable:
+Heap:
+1->22
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+v=32;print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+FileTable:
+Heap:
+1->30
+------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+v=32
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+v=32
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->10
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+print (v);print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+print (v)
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+print (rH(a))
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(1,int)
+v->32
+Output:
+10
+30
+32
+30
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+Ref(int) v;newH(v, 20);Ref(Ref(int)) a;newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+Ref(int) v
+newH(v, 20);Ref(Ref(int)) a;newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+Ref(int) v
+newH(v, 20);Ref(Ref(int)) a;newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+newH(v, 20);Ref(Ref(int)) a;newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+v->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+newH(v, 20);Ref(Ref(int)) a;newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+v->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+newH(v, 20)
+Ref(Ref(int)) a;newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+v->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+newH(v, 20)
+Ref(Ref(int)) a;newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+v->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+Ref(Ref(int)) a;newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+Ref(Ref(int)) a;newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+Ref(Ref(int)) a
+newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+Ref(Ref(int)) a
+newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+a->(0,Ref(int))
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+newH(a, v);newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+a->(0,Ref(int))
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+newH(a, v)
+newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+a->(0,Ref(int))
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+newH(a, v)
+newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+a->(0,Ref(int))
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+a->(2,Ref(int))
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+------------------
+Id=2
+ExeStack:
+newH(v, 30);print (rH(rH(a)))
+SymTable_2:
+a->(2,Ref(int))
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+------------------
+Id=2
+ExeStack:
+newH(v, 30)
+print (rH(rH(a)))
+SymTable_2:
+a->(2,Ref(int))
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+------------------
+Id=2
+ExeStack:
+newH(v, 30)
+print (rH(rH(a)))
+SymTable_2:
+a->(2,Ref(int))
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+------------------
+Id=2
+ExeStack:
+print (rH(rH(a)))
+SymTable_2:
+a->(2,Ref(int))
+v->(3,int)
+Output:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+3->30
+------------------
+Id=2
+ExeStack:
+print (rH(rH(a)))
+SymTable_2:
+a->(2,Ref(int))
+v->(3,int)
+Output:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+3->30
+------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(2,Ref(int))
+v->(3,int)
+Output:
+20
+FileTable:
+Heap:
+1->20
+2->(1,int)
+3->30
+------------------
+Id=2
+ExeStack:
+Ref(int) v;newH(v, 20);print (rH(v));wH(v, 30);print (rH(v)+5)
+SymTable_2:
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+Ref(int) v
+newH(v, 20);print (rH(v));wH(v, 30);print (rH(v)+5)
+SymTable_2:
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+Ref(int) v
+newH(v, 20);print (rH(v));wH(v, 30);print (rH(v)+5)
+SymTable_2:
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+newH(v, 20);print (rH(v));wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+newH(v, 20);print (rH(v));wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+newH(v, 20)
+print (rH(v));wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+newH(v, 20)
+print (rH(v));wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=2
+ExeStack:
+print (rH(v));wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (rH(v));wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (rH(v))
+wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (rH(v))
+wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+wH(v, 30);print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+wH(v, 30)
+print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+wH(v, 30)
+print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+20
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+print (rH(v)+5)
+SymTable_2:
+v->(1,int)
+Output:
+20
+FileTable:
+Heap:
+1->30
+------------------
+Id=2
+ExeStack:
+SymTable_2:
+v->(1,int)
+Output:
+20
+35
+FileTable:
+Heap:
+1->30
+------------------
+Id=1
+ExeStack:
+int v;v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v
+v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v
+v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=4;while(v>0)(print (v);v=v-1);print (v)
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=4
+while(v>0)(print (v);v=v-1);print (v)
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=4
+while(v>0)(print (v);v=v-1);print (v)
+SymTable_1:
+v->0
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1);print (v)
+SymTable_1:
+v->4
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1);print (v)
+SymTable_1:
+v->4
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->4
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->4
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->4
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->4
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->4
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->4
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->4
+Output:
+4
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->4
+Output:
+4
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->3
+Output:
+4
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->3
+Output:
+4
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->3
+Output:
+4
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->3
+Output:
+4
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->3
+Output:
+4
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->3
+Output:
+4
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->3
+Output:
+4
+3
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->3
+Output:
+4
+3
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->2
+Output:
+4
+3
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->2
+Output:
+4
+3
+2
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->2
+Output:
+4
+3
+2
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v);v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->1
+Output:
+4
+3
+2
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->1
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+v=v-1
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->1
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->0
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+while(v>0)(print (v);v=v-1)
+print (v)
+SymTable_1:
+v->0
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+SymTable_1:
+v->0
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+print (v)
+SymTable_1:
+v->0
+Output:
+4
+3
+2
+1
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+SymTable_1:
+v->0
+Output:
+4
+3
+2
+1
+0
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a;newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+Ref(int) a;newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+Ref(int) a;newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3<v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+Ref(int) a;newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+SymTable_3:
+a->(1,int)
+v->20
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+SymTable_4:
+a->(1,int)
+v->40
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+Ref(int) a;newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+SymTable_3:
+a->(1,int)
+v->20
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+SymTable_4:
+a->(1,int)
+v->40
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+Ref(int) a;newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+Ref(int) a;newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+SymTable_3:
+a->(1,int)
+v->20
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+SymTable_4:
+a->(1,int)
+v->40
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+Ref(int) a;newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+SymTable_3:
+a->(1,int)
+v->20
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+SymTable_4:
+a->(1,int)
+v->40
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+Ref(int) a;newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+Ref(int) a
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20);int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+newH(a, 20)
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(0,int)
+Output:
+FileTable:
+Heap:
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v;for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+int v
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); ;print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+for(v=0;3;v+1)fork(print (v);v=v*rH(a)); 
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0;while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=0
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+v=v*rH(a)
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=2
+ExeStack:
+SymTable_2:
+a->(1,int)
+v->0
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a));v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+v=v*rH(a)
+SymTable_3:
+a->(1,int)
+v->1
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=3
+ExeStack:
+SymTable_3:
+a->(1,int)
+v->20
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+fork(print (v);v=v*rH(a))
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+v=v+1
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v);v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+while(3>v)(fork(print (v);v=v*rH(a));v=v+1)
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+print (v)
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+print (rH(a))
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+v=v*rH(a)
+SymTable_4:
+a->(1,int)
+v->2
+Output:
+0
+1
+2
+FileTable:
+Heap:
+1->20
+------------------
+Id=1
+ExeStack:
+SymTable_1:
+a->(1,int)
+v->3
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------
+Id=4
+ExeStack:
+SymTable_4:
+a->(1,int)
+v->40
+Output:
+0
+1
+2
+20
+FileTable:
+Heap:
+1->20
+------------------

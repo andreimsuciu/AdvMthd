@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="800.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="stmtName" layoutX="40.0" layoutY="23.0" text="StmtName">
+         <font>
+            <Font size="26.0" />
+         </font></Label>
+      <Label fx:id="numPrgStates" layoutX="37.0" layoutY="70.0" text="Number of Prog States: " />
+      <ListView fx:id="prgView" layoutX="31.0" layoutY="104.0" prefHeight="53.0" prefWidth="190.0" />
+      <Label layoutX="36.0" layoutY="87.0" text="IDs: " />
+      <Label layoutX="103.0" layoutY="423.0" text="FileTable">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <ListView fx:id="fileTblView" layoutX="31.0" layoutY="454.0" prefHeight="105.0" prefWidth="190.0" />
+      <Label layoutX="328.0" layoutY="423.0" text="Output">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <ListView fx:id="outView" layoutX="255.0" layoutY="454.0" prefHeight="105.0" prefWidth="190.0" />
+      <Label layoutX="317.0" layoutY="172.0" text="HeapTable">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="91.0" layoutY="172.0" text="SymbolTable">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="550.0" layoutY="172.0" text="ExeStack">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <ListView fx:id="exeStackView" layoutX="482.0" layoutY="200.0" prefHeight="200.0" prefWidth="190.0" />
+      <Button fx:id="runButton" layoutX="509.0" layoutY="491.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="137.0" text="Run One Step" />
+      <TableView fx:id="heapView" layoutX="255.0" layoutY="200.0" prefHeight="200.0" prefWidth="190.0">
+        <columns>
+          <TableColumn fx:id="heapAddr" prefWidth="93.0" text="Address" />
+          <TableColumn fx:id="heapValue" prefWidth="96.0" text="Value" />
+        </columns>
+      </TableView>
+      <TableView fx:id="symTblView" layoutX="30.0" layoutY="200.0" prefHeight="200.0" prefWidth="190.0">
+        <columns>
+          <TableColumn fx:id="symName" prefWidth="94.0" text="Name" />
+          <TableColumn fx:id="symValue" prefWidth="95.0" text="Value" />
+        </columns>
+      </TableView>
+      <TableView fx:id="lockTableView" layoutX="33.0" layoutY="613.0" prefHeight="173.0" prefWidth="190.0">
+         <columns>
+            <TableColumn fx:id="lockLoc" prefWidth="95.0" text="Location" />
+            <TableColumn fx:id="lockValue" prefWidth="94.0" text="Value" />
+         </columns>
+      </TableView>
+      <Label layoutX="98.0" layoutY="586.0" text="LockTable">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
